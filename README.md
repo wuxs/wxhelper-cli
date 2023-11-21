@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/wuxs/wxhelper-cli)
 ![GitHub forks](https://img.shields.io/github/forks/wuxs/wxhelper-cli)
 
-`wxhelper-cli` 是一个命令行版本的 wxhelper API 客户端，它允许您通过命令行与 wxhelper 服务进行交互。您可以使用 `WXHELPER_SERVER` 环境变量来指定 wxhelper 服务的地址。
+`wxhelper-cli` 是一个命令行版本的 [wxhelper](https://github.com/ttttupup/wxhelper) API 客户端，它允许您通过命令行与 wxhelper 服务进行交互。您可以使用 `WXHELPER_SERVER` 环境变量来指定 wxhelper 服务的地址。
 
 ## 功能特点
 
